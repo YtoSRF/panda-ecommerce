@@ -1,0 +1,15 @@
+.orange-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.bg-button {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 6px;
+    border: none;
+    outline: none;
+}
+
+.pink-text {
+    color: #FF136F;
+}
